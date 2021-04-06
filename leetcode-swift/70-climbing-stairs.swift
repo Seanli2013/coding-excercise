@@ -10,9 +10,7 @@
 class ClimbingStairsSolution2 {
     func climbStairs(_ n: Int) -> Int {
         if n <= 3 {return n}
-        var fnMinus1 = 2
-        var fn = 3
-        var tmpN = 0
+        var fnMinus1 = 2, fn = 3, tmpN = 0
         for _ in 4...n {
             tmpN = fn
             fn = fn + fnMinus1

@@ -14,6 +14,7 @@
 		E424089C261C50CA00EB7B60 /* 13-roman-to-integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4240897261C50CA00EB7B60 /* 13-roman-to-integer.swift */; };
 		E424089D261C50CA00EB7B60 /* 1-two-sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4240898261C50CA00EB7B60 /* 1-two-sum.swift */; };
 		E42408A0261C566D00EB7B60 /* jz-offer-03-find-repeat-number.swift in Sources */ = {isa = PBXBuildFile; fileRef = E424089F261C566D00EB7B60 /* jz-offer-03-find-repeat-number.swift */; };
+		E42408A3261C61D800EB7B60 /* 70-climbing-stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42408A2261C61D800EB7B60 /* 70-climbing-stairs.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -37,6 +38,7 @@
 		E4240897261C50CA00EB7B60 /* 13-roman-to-integer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "13-roman-to-integer.swift"; path = "../../13-roman-to-integer.swift"; sourceTree = "<group>"; };
 		E4240898261C50CA00EB7B60 /* 1-two-sum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "1-two-sum.swift"; path = "../../1-two-sum.swift"; sourceTree = "<group>"; };
 		E424089F261C566D00EB7B60 /* jz-offer-03-find-repeat-number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "jz-offer-03-find-repeat-number.swift"; path = "../../jz-offer-03-find-repeat-number.swift"; sourceTree = "<group>"; };
+		E42408A2261C61D800EB7B60 /* 70-climbing-stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "70-climbing-stairs.swift"; path = "../../70-climbing-stairs.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 				E4240896261C50CA00EB7B60 /* 21-merge-two-sorted-lists.swift */,
 				E4240894261C50CA00EB7B60 /* 206-reverse-linked-list.swift */,
 				E424089F261C566D00EB7B60 /* jz-offer-03-find-repeat-number.swift */,
+				E42408A2261C61D800EB7B60 /* 70-climbing-stairs.swift */,
 			);
 			path = CodeExcercise;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 				E424089D261C50CA00EB7B60 /* 1-two-sum.swift in Sources */,
 				E424089B261C50CA00EB7B60 /* 21-merge-two-sorted-lists.swift in Sources */,
 				E42408A0261C566D00EB7B60 /* jz-offer-03-find-repeat-number.swift in Sources */,
+				E42408A3261C61D800EB7B60 /* 70-climbing-stairs.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

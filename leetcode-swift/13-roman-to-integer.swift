@@ -8,7 +8,7 @@
 //  Time Complexity: O(n); Space Complexity: O(1)
 //
 
-class Solution {
+class RomanToIntegerSolution {
     func romanToInt(_ s: String) -> Int {
 
         var addNum = 0

@@ -11,7 +11,7 @@
  *     public init(_ val: Int, _ next: ListNode?) { self.val = val; self.next = next; }
  * }
  */
-class Solution {
+class MergeTwoSortedListSolution {
     func mergeTwoLists(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
         if nil == l1 && nil == l2 {return nil}
 

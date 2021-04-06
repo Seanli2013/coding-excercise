@@ -3,7 +3,8 @@
 //  CodeExcercise
 //
 //  Created by XiangLI on 4/6/21.
-//
+//  https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/
+//  Time Complexity: O(n), Space Complexity: O(n)
 
 class FindRepeatNumberSolution {
     func findRepeatNumber(_ nums: [Int]) -> Int {

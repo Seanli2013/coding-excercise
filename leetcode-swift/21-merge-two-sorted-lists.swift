@@ -15,8 +15,8 @@ class Solution {
     func mergeTwoLists(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
         if nil == l1 && nil == l2 {return nil}
 
-        var l = ListNode(0)
-        let head = l
+        let dummy = ListNode(0)
+        var l = dummy
         var l1 = l1
         var l2 = l2
 
@@ -35,6 +35,6 @@ class Solution {
 
         l.next = l1 ?? l2
 
-        return head.next
+        return dummy.next
     }
 }

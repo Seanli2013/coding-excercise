@@ -8,13 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		E424088D261C50A400EB7B60 /* CodeExcercise.swift in Sources */ = {isa = PBXBuildFile; fileRef = E424088C261C50A400EB7B60 /* CodeExcercise.swift */; };
-		E4240899261C50CA00EB7B60 /* 206-reverse-linked-list.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4240894261C50CA00EB7B60 /* 206-reverse-linked-list.swift */; };
-		E424089A261C50CA00EB7B60 /* 7-reverse-integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4240895261C50CA00EB7B60 /* 7-reverse-integer.swift */; };
-		E424089B261C50CA00EB7B60 /* 21-merge-two-sorted-lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4240896261C50CA00EB7B60 /* 21-merge-two-sorted-lists.swift */; };
-		E424089C261C50CA00EB7B60 /* 13-roman-to-integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4240897261C50CA00EB7B60 /* 13-roman-to-integer.swift */; };
-		E424089D261C50CA00EB7B60 /* 1-two-sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4240898261C50CA00EB7B60 /* 1-two-sum.swift */; };
-		E42408A0261C566D00EB7B60 /* jz-offer-03-find-repeat-number.swift in Sources */ = {isa = PBXBuildFile; fileRef = E424089F261C566D00EB7B60 /* jz-offer-03-find-repeat-number.swift */; };
-		E42408A3261C61D800EB7B60 /* 70-climbing-stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42408A2261C61D800EB7B60 /* 70-climbing-stairs.swift */; };
+		E4240899261C50CA00EB7B60 /* 206ReverseLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4240894261C50CA00EB7B60 /* 206ReverseLinkedList.swift */; };
+		E424089A261C50CA00EB7B60 /* 7ReverseInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4240895261C50CA00EB7B60 /* 7ReverseInteger.swift */; };
+		E424089B261C50CA00EB7B60 /* 21MergeTwoSortedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4240896261C50CA00EB7B60 /* 21MergeTwoSortedList.swift */; };
+		E424089C261C50CA00EB7B60 /* 13RomanToInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4240897261C50CA00EB7B60 /* 13RomanToInteger.swift */; };
+		E424089D261C50CA00EB7B60 /* 1TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4240898261C50CA00EB7B60 /* 1TwoSum.swift */; };
+		E42408A0261C566D00EB7B60 /* JZOffer03FindRepeatNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = E424089F261C566D00EB7B60 /* JZOffer03FindRepeatNumber.swift */; };
+		E42408A3261C61D800EB7B60 /* 70ClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42408A2261C61D800EB7B60 /* 70ClimbingStairs.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -32,13 +32,13 @@
 /* Begin PBXFileReference section */
 		E4240889261C50A400EB7B60 /* libCodeExcercise.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libCodeExcercise.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		E424088C261C50A400EB7B60 /* CodeExcercise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeExcercise.swift; sourceTree = "<group>"; };
-		E4240894261C50CA00EB7B60 /* 206-reverse-linked-list.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "206-reverse-linked-list.swift"; path = "../../206-reverse-linked-list.swift"; sourceTree = "<group>"; };
-		E4240895261C50CA00EB7B60 /* 7-reverse-integer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "7-reverse-integer.swift"; path = "../../7-reverse-integer.swift"; sourceTree = "<group>"; };
-		E4240896261C50CA00EB7B60 /* 21-merge-two-sorted-lists.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "21-merge-two-sorted-lists.swift"; path = "../../21-merge-two-sorted-lists.swift"; sourceTree = "<group>"; };
-		E4240897261C50CA00EB7B60 /* 13-roman-to-integer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "13-roman-to-integer.swift"; path = "../../13-roman-to-integer.swift"; sourceTree = "<group>"; };
-		E4240898261C50CA00EB7B60 /* 1-two-sum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "1-two-sum.swift"; path = "../../1-two-sum.swift"; sourceTree = "<group>"; };
-		E424089F261C566D00EB7B60 /* jz-offer-03-find-repeat-number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "jz-offer-03-find-repeat-number.swift"; path = "../../jz-offer-03-find-repeat-number.swift"; sourceTree = "<group>"; };
-		E42408A2261C61D800EB7B60 /* 70-climbing-stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "70-climbing-stairs.swift"; path = "../../70-climbing-stairs.swift"; sourceTree = "<group>"; };
+		E4240894261C50CA00EB7B60 /* 206ReverseLinkedList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = 206ReverseLinkedList.swift; path = ../../206ReverseLinkedList.swift; sourceTree = "<group>"; };
+		E4240895261C50CA00EB7B60 /* 7ReverseInteger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = 7ReverseInteger.swift; path = ../../7ReverseInteger.swift; sourceTree = "<group>"; };
+		E4240896261C50CA00EB7B60 /* 21MergeTwoSortedList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = 21MergeTwoSortedList.swift; path = ../../21MergeTwoSortedList.swift; sourceTree = "<group>"; };
+		E4240897261C50CA00EB7B60 /* 13RomanToInteger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = 13RomanToInteger.swift; path = ../../13RomanToInteger.swift; sourceTree = "<group>"; };
+		E4240898261C50CA00EB7B60 /* 1TwoSum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = 1TwoSum.swift; path = ../../1TwoSum.swift; sourceTree = "<group>"; };
+		E424089F261C566D00EB7B60 /* JZOffer03FindRepeatNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = JZOffer03FindRepeatNumber.swift; path = ../../JZOffer03FindRepeatNumber.swift; sourceTree = "<group>"; };
+		E42408A2261C61D800EB7B60 /* 70ClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = 70ClimbingStairs.swift; path = ../../70ClimbingStairs.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,13 +72,13 @@
 			isa = PBXGroup;
 			children = (
 				E424088C261C50A400EB7B60 /* CodeExcercise.swift */,
-				E4240898261C50CA00EB7B60 /* 1-two-sum.swift */,
-				E4240895261C50CA00EB7B60 /* 7-reverse-integer.swift */,
-				E4240897261C50CA00EB7B60 /* 13-roman-to-integer.swift */,
-				E4240896261C50CA00EB7B60 /* 21-merge-two-sorted-lists.swift */,
-				E4240894261C50CA00EB7B60 /* 206-reverse-linked-list.swift */,
-				E424089F261C566D00EB7B60 /* jz-offer-03-find-repeat-number.swift */,
-				E42408A2261C61D800EB7B60 /* 70-climbing-stairs.swift */,
+				E4240898261C50CA00EB7B60 /* 1TwoSum.swift */,
+				E4240895261C50CA00EB7B60 /* 7ReverseInteger.swift */,
+				E4240897261C50CA00EB7B60 /* 13RomanToInteger.swift */,
+				E4240896261C50CA00EB7B60 /* 21MergeTwoSortedList.swift */,
+				E4240894261C50CA00EB7B60 /* 206ReverseLinkedList.swift */,
+				E424089F261C566D00EB7B60 /* JZOffer03FindRepeatNumber.swift */,
+				E42408A2261C61D800EB7B60 /* 70ClimbingStairs.swift */,
 			);
 			path = CodeExcercise;
 			sourceTree = "<group>";
@@ -140,14 +140,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E424089C261C50CA00EB7B60 /* 13-roman-to-integer.swift in Sources */,
-				E4240899261C50CA00EB7B60 /* 206-reverse-linked-list.swift in Sources */,
+				E424089C261C50CA00EB7B60 /* 13RomanToInteger.swift in Sources */,
+				E4240899261C50CA00EB7B60 /* 206ReverseLinkedList.swift in Sources */,
 				E424088D261C50A400EB7B60 /* CodeExcercise.swift in Sources */,
-				E424089A261C50CA00EB7B60 /* 7-reverse-integer.swift in Sources */,
-				E424089D261C50CA00EB7B60 /* 1-two-sum.swift in Sources */,
-				E424089B261C50CA00EB7B60 /* 21-merge-two-sorted-lists.swift in Sources */,
-				E42408A0261C566D00EB7B60 /* jz-offer-03-find-repeat-number.swift in Sources */,
-				E42408A3261C61D800EB7B60 /* 70-climbing-stairs.swift in Sources */,
+				E424089A261C50CA00EB7B60 /* 7ReverseInteger.swift in Sources */,
+				E424089D261C50CA00EB7B60 /* 1TwoSum.swift in Sources */,
+				E424089B261C50CA00EB7B60 /* 21MergeTwoSortedList.swift in Sources */,
+				E42408A0261C566D00EB7B60 /* JZOffer03FindRepeatNumber.swift in Sources */,
+				E42408A3261C61D800EB7B60 /* 70ClimbingStairs.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

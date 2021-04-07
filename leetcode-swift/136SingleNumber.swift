@@ -10,6 +10,19 @@
 
 import Foundation
 
+// TC: O(n), SC: O(1)
+class SingleNumberSolution2 {
+    func singleNumber(_ nums: [Int]) -> Int {
+        var retValue = 0
+        for num in nums {
+            retValue ^= num
+        }
+        return retValue
+    }
+}
+
+
+
 // TC: O(n), SC: O(n)
 class SingleNumberSolution1 {
     func singleNumber(_ nums: [Int]) -> Int {

@@ -17,6 +17,7 @@
 		E42408A3261C61D800EB7B60 /* 70ClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42408A2261C61D800EB7B60 /* 70ClimbingStairs.swift */; };
 		E42408AE261D94F800EB7B60 /* 20ValidParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42408AD261D94F800EB7B60 /* 20ValidParentheses.swift */; };
 		E42408B1261D99AC00EB7B60 /* 9PalindromeNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42408B0261D99AC00EB7B60 /* 9PalindromeNumber.swift */; };
+		E42408B4261DB22A00EB7B60 /* 14LongestCommonPrefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42408B3261DB22A00EB7B60 /* 14LongestCommonPrefix.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -43,6 +44,7 @@
 		E42408A2261C61D800EB7B60 /* 70ClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = 70ClimbingStairs.swift; path = ../../70ClimbingStairs.swift; sourceTree = "<group>"; };
 		E42408AD261D94F800EB7B60 /* 20ValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = 20ValidParentheses.swift; path = ../../20ValidParentheses.swift; sourceTree = "<group>"; };
 		E42408B0261D99AC00EB7B60 /* 9PalindromeNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = 9PalindromeNumber.swift; path = ../../9PalindromeNumber.swift; sourceTree = "<group>"; };
+		E42408B3261DB22A00EB7B60 /* 14LongestCommonPrefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = 14LongestCommonPrefix.swift; path = ../../14LongestCommonPrefix.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			children = (
 				E424088C261C50A400EB7B60 /* CodeExcercise.swift */,
 				E42408B0261D99AC00EB7B60 /* 9PalindromeNumber.swift */,
+				E42408B3261DB22A00EB7B60 /* 14LongestCommonPrefix.swift */,
 				E4240898261C50CA00EB7B60 /* 1TwoSum.swift */,
 				E42408AD261D94F800EB7B60 /* 20ValidParentheses.swift */,
 				E4240895261C50CA00EB7B60 /* 7ReverseInteger.swift */,
@@ -150,6 +153,7 @@
 				E42408B1261D99AC00EB7B60 /* 9PalindromeNumber.swift in Sources */,
 				E4240899261C50CA00EB7B60 /* 206ReverseLinkedList.swift in Sources */,
 				E424088D261C50A400EB7B60 /* CodeExcercise.swift in Sources */,
+				E42408B4261DB22A00EB7B60 /* 14LongestCommonPrefix.swift in Sources */,
 				E42408AE261D94F800EB7B60 /* 20ValidParentheses.swift in Sources */,
 				E424089A261C50CA00EB7B60 /* 7ReverseInteger.swift in Sources */,
 				E424089D261C50CA00EB7B60 /* 1TwoSum.swift in Sources */,

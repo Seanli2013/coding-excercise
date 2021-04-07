@@ -18,6 +18,7 @@
 		E42408AE261D94F800EB7B60 /* 20ValidParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42408AD261D94F800EB7B60 /* 20ValidParentheses.swift */; };
 		E42408B1261D99AC00EB7B60 /* 9PalindromeNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42408B0261D99AC00EB7B60 /* 9PalindromeNumber.swift */; };
 		E42408B4261DB22A00EB7B60 /* 14LongestCommonPrefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42408B3261DB22A00EB7B60 /* 14LongestCommonPrefix.swift */; };
+		E42408B7261DDD7400EB7B60 /* 136SingleNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42408B6261DDD7400EB7B60 /* 136SingleNumber.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -45,6 +46,7 @@
 		E42408AD261D94F800EB7B60 /* 20ValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = 20ValidParentheses.swift; path = ../../20ValidParentheses.swift; sourceTree = "<group>"; };
 		E42408B0261D99AC00EB7B60 /* 9PalindromeNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = 9PalindromeNumber.swift; path = ../../9PalindromeNumber.swift; sourceTree = "<group>"; };
 		E42408B3261DB22A00EB7B60 /* 14LongestCommonPrefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = 14LongestCommonPrefix.swift; path = ../../14LongestCommonPrefix.swift; sourceTree = "<group>"; };
+		E42408B6261DDD7400EB7B60 /* 136SingleNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = 136SingleNumber.swift; path = ../../136SingleNumber.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				E42408B3261DB22A00EB7B60 /* 14LongestCommonPrefix.swift */,
 				E4240898261C50CA00EB7B60 /* 1TwoSum.swift */,
 				E42408AD261D94F800EB7B60 /* 20ValidParentheses.swift */,
+				E42408B6261DDD7400EB7B60 /* 136SingleNumber.swift */,
 				E4240895261C50CA00EB7B60 /* 7ReverseInteger.swift */,
 				E4240897261C50CA00EB7B60 /* 13RomanToInteger.swift */,
 				E4240896261C50CA00EB7B60 /* 21MergeTwoSortedList.swift */,
@@ -159,6 +162,7 @@
 				E424089D261C50CA00EB7B60 /* 1TwoSum.swift in Sources */,
 				E424089B261C50CA00EB7B60 /* 21MergeTwoSortedList.swift in Sources */,
 				E42408A0261C566D00EB7B60 /* JZOffer03FindRepeatNumber.swift in Sources */,
+				E42408B7261DDD7400EB7B60 /* 136SingleNumber.swift in Sources */,
 				E42408A3261C61D800EB7B60 /* 70ClimbingStairs.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

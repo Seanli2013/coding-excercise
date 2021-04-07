@@ -15,6 +15,7 @@
 		E424089D261C50CA00EB7B60 /* 1TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4240898261C50CA00EB7B60 /* 1TwoSum.swift */; };
 		E42408A0261C566D00EB7B60 /* JZOffer03FindRepeatNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = E424089F261C566D00EB7B60 /* JZOffer03FindRepeatNumber.swift */; };
 		E42408A3261C61D800EB7B60 /* 70ClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42408A2261C61D800EB7B60 /* 70ClimbingStairs.swift */; };
+		E42408B1261D99AC00EB7B60 /* 9PalindromeNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42408B0261D99AC00EB7B60 /* 9PalindromeNumber.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -39,6 +40,7 @@
 		E4240898261C50CA00EB7B60 /* 1TwoSum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = 1TwoSum.swift; path = ../../1TwoSum.swift; sourceTree = "<group>"; };
 		E424089F261C566D00EB7B60 /* JZOffer03FindRepeatNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = JZOffer03FindRepeatNumber.swift; path = ../../JZOffer03FindRepeatNumber.swift; sourceTree = "<group>"; };
 		E42408A2261C61D800EB7B60 /* 70ClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = 70ClimbingStairs.swift; path = ../../70ClimbingStairs.swift; sourceTree = "<group>"; };
+		E42408B0261D99AC00EB7B60 /* 9PalindromeNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = 9PalindromeNumber.swift; path = ../../9PalindromeNumber.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 			isa = PBXGroup;
 			children = (
 				E424088C261C50A400EB7B60 /* CodeExcercise.swift */,
+				E42408B0261D99AC00EB7B60 /* 9PalindromeNumber.swift */,
 				E4240898261C50CA00EB7B60 /* 1TwoSum.swift */,
 				E4240895261C50CA00EB7B60 /* 7ReverseInteger.swift */,
 				E4240897261C50CA00EB7B60 /* 13RomanToInteger.swift */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E424089C261C50CA00EB7B60 /* 13RomanToInteger.swift in Sources */,
+				E42408B1261D99AC00EB7B60 /* 9PalindromeNumber.swift in Sources */,
 				E4240899261C50CA00EB7B60 /* 206ReverseLinkedList.swift in Sources */,
 				E424088D261C50A400EB7B60 /* CodeExcercise.swift in Sources */,
 				E424089A261C50CA00EB7B60 /* 7ReverseInteger.swift in Sources */,

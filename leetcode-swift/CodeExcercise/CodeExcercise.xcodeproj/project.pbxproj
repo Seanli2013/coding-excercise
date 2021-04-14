@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E424088D261C50A400EB7B60 /* CodeExcercise.swift in Sources */ = {isa = PBXBuildFile; fileRef = E424088C261C50A400EB7B60 /* CodeExcercise.swift */; };
 		E4240899261C50CA00EB7B60 /* 206ReverseLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4240894261C50CA00EB7B60 /* 206ReverseLinkedList.swift */; };
 		E424089A261C50CA00EB7B60 /* 7ReverseInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4240895261C50CA00EB7B60 /* 7ReverseInteger.swift */; };
 		E424089B261C50CA00EB7B60 /* 21MergeTwoSortedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4240896261C50CA00EB7B60 /* 21MergeTwoSortedList.swift */; };
@@ -41,7 +40,6 @@
 
 /* Begin PBXFileReference section */
 		E4240889261C50A400EB7B60 /* libCodeExcercise.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libCodeExcercise.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		E424088C261C50A400EB7B60 /* CodeExcercise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeExcercise.swift; sourceTree = "<group>"; };
 		E4240894261C50CA00EB7B60 /* 206ReverseLinkedList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = 206ReverseLinkedList.swift; path = ../../206ReverseLinkedList.swift; sourceTree = "<group>"; };
 		E4240895261C50CA00EB7B60 /* 7ReverseInteger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = 7ReverseInteger.swift; path = ../../7ReverseInteger.swift; sourceTree = "<group>"; };
 		E4240896261C50CA00EB7B60 /* 21MergeTwoSortedList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = 21MergeTwoSortedList.swift; path = ../../21MergeTwoSortedList.swift; sourceTree = "<group>"; };
@@ -91,7 +89,6 @@
 		E424088B261C50A400EB7B60 /* CodeExcercise */ = {
 			isa = PBXGroup;
 			children = (
-				E424088C261C50A400EB7B60 /* CodeExcercise.swift */,
 				E42408B0261D99AC00EB7B60 /* 9PalindromeNumber.swift */,
 				E42408B3261DB22A00EB7B60 /* 14LongestCommonPrefix.swift */,
 				E4240898261C50CA00EB7B60 /* 1TwoSum.swift */,
@@ -173,7 +170,6 @@
 				E424089C261C50CA00EB7B60 /* 13RomanToInteger.swift in Sources */,
 				E42408B1261D99AC00EB7B60 /* 9PalindromeNumber.swift in Sources */,
 				E4240899261C50CA00EB7B60 /* 206ReverseLinkedList.swift in Sources */,
-				E424088D261C50A400EB7B60 /* CodeExcercise.swift in Sources */,
 				E42408B4261DB22A00EB7B60 /* 14LongestCommonPrefix.swift in Sources */,
 				E426514D2625811B00901659 /* 283MoveZeros.swift in Sources */,
 				E42651492625778D00901659 /* 121BestTimeToBuyAndSellStock.swift in Sources */,

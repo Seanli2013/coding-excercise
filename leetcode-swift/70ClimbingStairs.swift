@@ -4,7 +4,7 @@
 //
 //  Created by XiangLI on 4/6/21.
 //
-//  https://leetcode-cn.com/problems/climbing-stairs/
+//  https://leetcode.com/problems/climbing-stairs/
 
 // Time Complexity: O(n), Space Complexity:O(1)
 class ClimbingStairsSolution2 {

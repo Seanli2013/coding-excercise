@@ -5,7 +5,7 @@
 //  Created by XiangLI on 4/7/21.
 //
 //
-//  https://leetcode-cn.com/problems/single-number/submissions/
+//  https://leetcode.com/problems/single-number/submissions/
 
 
 import Foundation

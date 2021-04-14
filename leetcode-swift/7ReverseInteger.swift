@@ -4,13 +4,12 @@
 //
 //  Created by XiangLI on 4/6/21.
 //
-//  https://leetcode-cn.com/problems/reverse-integer/
+//  https://leetcode.com/problems/reverse-integer/
 //
 
 //  [Solution 2] convertion btw Int and Array
 class ReverseIntegerSolution1 {
     func reverse(_ x: Int) -> Int {
-        // 边界条件
         if x == -2147483648 {return 0;}
         
         var x = x
@@ -38,7 +37,6 @@ class ReverseIntegerSolution1 {
 //  [Solution 1] convertion btw Int and String, String reverse
 class ReverseIntegerSolution2 {
     func reverse(_ x: Int) -> Int {
-        // 边界条件
         if x == -2147483648 {return 0;}
 
         var x = x

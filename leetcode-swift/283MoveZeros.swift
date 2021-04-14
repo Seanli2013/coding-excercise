@@ -4,7 +4,7 @@
 //
 //  Created by XiangLI on 4/13/21.
 //
-//  https://leetcode-cn.com/problems/move-zeroes/
+//  https://leetcode.com/problems/move-zeroes/
 //
 //
 

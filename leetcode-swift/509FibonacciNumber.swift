@@ -4,7 +4,7 @@
 //
 //  Created by XiangLI on 4/12/21.
 //
-//  https://leetcode-cn.com/problems/fibonacci-number/
+//  https://leetcode.com/problems/fibonacci-number/
 //
 
 import Foundation

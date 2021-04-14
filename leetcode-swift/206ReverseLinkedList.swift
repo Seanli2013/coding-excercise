@@ -4,6 +4,7 @@
 //
 //  Created by XiangLI on 4/6/21.
 //
+//  https://leetcode.com/problems/reverse-linked-list/
 
 /**
  * Definition for singly-linked list.
@@ -17,7 +18,7 @@
  *
  *
  *
- * https://leetcode-cn.com/problems/reverse-linked-list/
+ *
  * Time Complexity O(n), Space Complexity O(1)
  */
 class ReverseLinkedListSolution {

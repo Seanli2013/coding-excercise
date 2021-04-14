@@ -5,7 +5,7 @@
 //  Created by XiangLI on 4/6/21.
 //
 
-// https://leetcode-cn.com/problems/two-sum/
+// https://leetcode.com/problems/two-sum/
 
 // Hash
 class TwoSumSolution2 {

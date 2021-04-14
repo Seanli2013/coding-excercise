@@ -5,7 +5,7 @@
 //  Created by XiangLI on 4/7/21.
 //
 //
-//  https://leetcode-cn.com/problems/longest-common-prefix/submissions/
+//  https://leetcode.com/problems/longest-common-prefix/submissions/
 //
 
 import Foundation

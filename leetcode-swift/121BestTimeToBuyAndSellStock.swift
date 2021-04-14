@@ -4,7 +4,7 @@
 //
 //  Created by XiangLI on 4/13/21.
 //
-//  https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/
+//  https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 //
 
 import Foundation

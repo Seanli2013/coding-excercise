@@ -4,7 +4,7 @@
 //
 //  Created by XiangLI on 4/7/21.
 //
-//  https://leetcode-cn.com/problems/palindrome-number/
+//  https://leetcode.com/problems/palindrome-number/
 //
 
 import Foundation

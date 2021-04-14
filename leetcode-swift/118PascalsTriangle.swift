@@ -5,7 +5,7 @@
 //  Created by XiangLI on 4/12/21.
 //
 //
-//  https://leetcode-cn.com/problems/pascals-triangle/
+//  https://leetcode.com/problems/pascals-triangle/
 //
 import Foundation
 class PascalsTriangleSolution1 {

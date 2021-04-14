@@ -4,7 +4,7 @@
 //
 //  Created by XiangLI on 4/7/21.
 //
-//  https://leetcode-cn.com/problems/valid-parentheses/
+//  https://leetcode.com/problems/valid-parentheses/
 //
 import Foundation
 

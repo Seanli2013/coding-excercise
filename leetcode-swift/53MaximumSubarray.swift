@@ -4,7 +4,7 @@
 //
 //  Created by XiangLI on 4/12/21.
 //
-//  https://leetcode-cn.com/problems/maximum-subarray/
+//  https://leetcode.com/problems/maximum-subarray/
 //
 
 
